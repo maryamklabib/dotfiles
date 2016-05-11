@@ -2,12 +2,6 @@
 
 useful commands aliased in your git config so you don't git into trouble :D
 
-##### Divergence 
-commits we added and commits remote added
-
-##### Goodness 
-summary of diff lines added/removed/total
-
 ##### Fancy logging.
 h = head
 hp = head with patch
